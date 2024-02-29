@@ -23,5 +23,5 @@
 [license-url]: https://github.com/dLwuren/source-core/blob/master/LICENSE.txt
 
 [GitHub](https://github.com/dLwuren/source-core/tree/main)
-[下载地址](https://github.com/dLwuren/source-core/tree/main)
+[下载地址](https://github.com/dLwuren/source-core/releases/)
 [快速开始](/开始)
